@@ -1,0 +1,6 @@
+c:\users\hadi\source\repos\AxceligentSolutions\Practice8\bin\Debug\Practice8.exe.config
+c:\users\hadi\source\repos\AxceligentSolutions\Practice8\bin\Debug\Practice8.exe
+c:\users\hadi\source\repos\AxceligentSolutions\Practice8\bin\Debug\Practice8.pdb
+c:\users\hadi\source\repos\AxceligentSolutions\Practice8\obj\Debug\Practice8.csproj.CoreCompileInputs.cache
+c:\users\hadi\source\repos\AxceligentSolutions\Practice8\obj\Debug\Practice8.exe
+c:\users\hadi\source\repos\AxceligentSolutions\Practice8\obj\Debug\Practice8.pdb

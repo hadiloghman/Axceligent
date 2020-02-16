@@ -1,0 +1,7 @@
+c:\users\hadi\source\repos\AxceligentSolutions\Practice7\bin\Debug\Practice7.exe.config
+c:\users\hadi\source\repos\AxceligentSolutions\Practice7\bin\Debug\Practice7.exe
+c:\users\hadi\source\repos\AxceligentSolutions\Practice7\bin\Debug\Practice7.pdb
+c:\users\hadi\source\repos\AxceligentSolutions\Practice7\obj\Debug\Practice7.csproj.CoreCompileInputs.cache
+c:\users\hadi\source\repos\AxceligentSolutions\Practice7\obj\Debug\Practice7.exe
+c:\users\hadi\source\repos\AxceligentSolutions\Practice7\obj\Debug\Practice7.pdb
+C:\Users\HADI\source\repos\AxceligentSolutions\Practice7\obj\Debug\Practice7.csprojAssemblyReference.cache

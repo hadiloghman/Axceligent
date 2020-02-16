@@ -1,0 +1,7 @@
+c:\users\hadi\source\repos\AxceligentSolutions\AxceligentSolutions\bin\Debug\AxceligentSolutions.exe.config
+c:\users\hadi\source\repos\AxceligentSolutions\AxceligentSolutions\bin\Debug\AxceligentSolutions.exe
+c:\users\hadi\source\repos\AxceligentSolutions\AxceligentSolutions\bin\Debug\AxceligentSolutions.pdb
+c:\users\hadi\source\repos\AxceligentSolutions\AxceligentSolutions\obj\Debug\AxceligentSolutions.csprojAssemblyReference.cache
+c:\users\hadi\source\repos\AxceligentSolutions\AxceligentSolutions\obj\Debug\AxceligentSolutions.csproj.CoreCompileInputs.cache
+c:\users\hadi\source\repos\AxceligentSolutions\AxceligentSolutions\obj\Debug\AxceligentSolutions.exe
+c:\users\hadi\source\repos\AxceligentSolutions\AxceligentSolutions\obj\Debug\AxceligentSolutions.pdb
